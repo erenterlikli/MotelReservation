@@ -1,0 +1,11 @@
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\bin\Debug\PansiyonKayıt.exe.config
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\bin\Debug\PansiyonKayıt.exe
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\bin\Debug\PansiyonKayıt.pdb
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.Form1.resources
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.Properties.Resources.resources
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.exe
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.pdb
+C:\Users\Eren\source\repos\PansiyonKayıt\PansiyonKayıt\obj\Debug\PansiyonKayıt.Form2.resources
